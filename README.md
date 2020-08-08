@@ -10,7 +10,7 @@ cd chat && composer install
 ```
 
 ```bash
-run app.php start
+php app.php start
 ```
 
 ```bash
