@@ -19,3 +19,5 @@ cd public && php -S localhost:1337
 
 Открыть в браузере http://localhost:1337/
 
+**Demo:** http://voicfy.ml:62717/
+
